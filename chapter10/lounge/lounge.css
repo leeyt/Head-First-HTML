@@ -56,3 +56,24 @@ h2 {
   line-height: normal;
   margin-top: 30px;
 }
+
+span.cd {
+  font-style: italic;
+}
+
+span.artist {
+  font-weight: bold;
+}
+
+a:link {
+  color: #007e7e;
+}
+
+a:visited {
+  color: #333333;
+}
+
+#elixirs a:hover {
+  background-color: #f88396;
+  color: #0d5353;
+}
