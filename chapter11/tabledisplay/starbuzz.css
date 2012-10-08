@@ -79,3 +79,9 @@ div#tableContainer {
 div#tableRow {
   display: table-row;
 }
+
+#award {
+  position:         absolute;
+  top:              30px;
+  left:             365px;
+}
